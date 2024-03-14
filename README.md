@@ -13,8 +13,8 @@ In this project you will find tips and guidances in three major category of life
 # Pages 
 Each categories has their pages and topics under a category is grouped as sub-page of the main page for the category. Below are a description of all the pages:
 
-Home Page - This page presents a description of the website and display a link to various categories
-Professional Page - Shows the menu bar, list of topics for this category and footer
-Career Page - Shows the menu bar, list of topics for this category and footer
-Christian Faith Page - Shows the menu bar, list of topics for this category and footer
-Contact Us Page - presents a form that users can fill to ask questions. Displays menu bar, form and footer.
+1. Home Page - This page presents a description of the website and display a link to various categories
+2. Professional Page - Shows the menu bar, list of topics for this category and footer
+3. Career Page - Shows the menu bar, list of topics for this category and footer
+4. Christian Faith Page - Shows the menu bar, list of topics for this category and footer
+5. Contact Us Page - presents a form that users can fill to ask questions. Displays menu bar, form and footer.
