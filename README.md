@@ -11,7 +11,7 @@ In this project you will find tips and guidances in three major category of life
 3. Regious - Christian Faith
 
 # Pages 
-Each categories has their pages and topics under a category is grouped as sub-page of the main page for the category. Below are a description of all the pages:
+Each categories has their pages and topics under a category is displayed on same page with in-page navigation. Below are a description of all the pages:
 
 1. Home Page - This page presents a description of the website and display a link to various categories
 2. Professional Page - Shows the menu bar, list of topics for this category and footer
