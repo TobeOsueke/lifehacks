@@ -9,25 +9,26 @@ h3 {
     width: 100%;  
 }
 #logoImg {
-    width: 100%;
+    width: 80%;
     height: auto;
-    max-height: 600px;
-    max-width: 1400px;
     display: block; /*convert the display of the image into a block image */
     margin-left: auto; /* center the image on the parent div */
     margin-right: auto;
 }
 #menulist {
-    width: 50%;
+    width: 80%;
     margin: auto;
     background-color: #C9A07A;
     margin-top: 0.3%;
 }
+nav {
+    text-align: center;
+    font-weight: bold;
+}
 nav > a {
     color: white;
-    text-align: center;
 }
-a:hover {
+body a:hover {
 	text-decoration: none;
 	color: black;
 }
@@ -40,20 +41,17 @@ a:hover {
     margin: auto;
 }
 .rectangle {
-    height: 150px;
-    width: 300px;
+    height: 120px;
+    width: 250px;
+    margin:auto;
     background-color: #8E4739;
     display: inline-block;
     vertical-align: middle;
     align-items: center;
     color: white
   }
-.rectangle > a {
-    color: white
-}
-.rectangle > a:hover {
-	text-decoration: none;
-	color: black;
+.rectangle a {
+    color: #DDD2C6
 }
 .textCenter {
     text-align: center;
@@ -62,8 +60,12 @@ a:hover {
     width: 80%;
     margin: auto;
     background-color: black;
-}
-footer > p {
     color: silver;
 }
-
+#findingJob h2, #workpermit h2{
+    color: #8E4739;
+}
+#bodyContent {
+    width: 80%;
+    margin: auto;
+}
