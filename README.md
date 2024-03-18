@@ -16,7 +16,7 @@ In this project you will find tips and guidances in three major category of life
 2. Cooking
 3. Regious - Christian Faith
 
-# Pages 
+## Pages 
 Each categories has their pages and topics under a category is displayed on same page with same-page navigation. Below are a description of all the pages:
 
 1. Home Page - This page presents a description of the website and display a link to various categories
