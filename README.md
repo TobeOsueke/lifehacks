@@ -20,8 +20,8 @@ In this project you will find tips and guidances in three major category of life
 Each categories has their pages and topics under a category is displayed on same page with same-page navigation. Below are a description of all the pages:
 
 1. Home Page - This page presents a description of the website and display a link to various categories
-![Home Page Screen Shot](readmeimages/image.png)
+![Home Page Screen Shot](readmeimages/home.png)
 2. Professional Page - Shows the menu bar, list of topics for this category and footer
-![Career Page Screen Shot](readmeimages/image.png)
+![Career Page Screen Shot](readmeimages/career.png)
 3. Cooking Page - Shows the menu bar, list of topics for this category and footer
 4. Christian Faith Page - Shows the menu bar, list of topics for this category and footer
