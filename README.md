@@ -21,7 +21,9 @@ Each categories has their pages and topics under a category is displayed on same
 
 1. Home Page - This page presents a description of the website and display a link to various categories
 ![Home Page Screen Shot](readmeimages/home.png)
-2. Professional Page - Shows the menu bar, list of topics for this category and footer
+2. Career Page - Shows the menu bar, list of topics for this category and footer
 ![Career Page Screen Shot](readmeimages/career.png)
 3. Cooking Page - Shows the menu bar, list of topics for this category and footer
+![Cooking Page Screen Shot](readmeimages/cooking.png)
 4. Christian Faith Page - Shows the menu bar, list of topics for this category and footer
+![Christian Faith Page Screen Shot](readmeimages/christianity.png)
