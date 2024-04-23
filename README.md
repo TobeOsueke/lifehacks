@@ -96,3 +96,10 @@ The footer consist of text.
 3. IDE: Visual Studio Code
 4. Version Control: Git and GitHub
 5. Online Deployment: GitHub pages
+
+# Deployment
+
+The site was deployed to GitHub pages. The steps to deploy are as follows: 
+  - In the GitHub repository, navigate to the Settings tab 
+  - From the source section drop-down menu, select the Master Branch.
+  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
