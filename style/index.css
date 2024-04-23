@@ -63,6 +63,10 @@ body a:hover {
         margin-right: 0.5%;
         max-height: auto;
     }
+    #iframe {
+        width: 500px;
+        height: 350px;
+        }
 
 }
 @media only screen and (min-width: 768px) {
@@ -78,6 +82,10 @@ body a:hover {
     #logoImg {
         max-height: 850px;
     }
+    #iframe {
+        width: 600px;
+        height: 400px;
+        }
 }
 @media only screen and (min-width: 320px) {
     /* For mobile: */
