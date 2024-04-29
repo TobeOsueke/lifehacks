@@ -100,7 +100,7 @@ The site was fully tested during the entire process of developemnt. Below are li
 
 2. Mobile/Tab/Laptop Viewing: The responsiveness of site was tested using Chrowm's browser developer tool. Each pages were viewed on different screen type to ensure that contents (images and text) respond to different screen size.
 
-3. Validator Test: Using the official W3C validator and (Jigsaw) validator both HTML and CSS files checked and no errors were found after development.
+3. Validator Test: Using the official W3C validator (https://validator.w3.org/nu/#file) and Jigsaw validator (https://jigsaw.w3.org/css-validator/), both HTML and CSS files were checked and no errors were found after development.
 
 #### Possible Bug:
 Even after using the correct html anchor target attribute in-page value, the 'finding a job' link does not scroll to the relevant section on the career page. 
