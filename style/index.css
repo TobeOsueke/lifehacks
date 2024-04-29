@@ -61,7 +61,6 @@ body a:hover {
         max-width: 30%;
         margin-left: 0.5%;
         margin-right: 0.5%;
-        max-height: auto;
     }
     #iframe {
         width: 500px;
@@ -76,8 +75,6 @@ body a:hover {
         max-width: 30%;
         margin-left: 0.5%;
         margin-right: 0.5%;
-        max-height: auto;
-        height: auto;
     }
     #logoImg {
         max-height: 850px;
@@ -94,7 +91,6 @@ body a:hover {
         margin-left: 5%;
         margin-right: 5%;
         margin-bottom: 0.6%;
-        max-height: auto;
     }
 }
 .textCenter {
